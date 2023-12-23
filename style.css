@@ -1,0 +1,22 @@
+h1{
+    margin: 0px;
+}
+
+.res {
+    background-color: darkgrey;
+    border-radius: 5px;
+    font-style: initial;
+    font-family: fantasy;
+    font-weight: 500;
+    color: dodgerblue
+        
+}
+
+.sub {
+    background-color: darkgray;
+    border-radius: 5px;
+    font-style: initial;
+    font-family: fantasy;
+    font-weight: 500;
+    color: dodgerblue
+}
